@@ -1,5 +1,10 @@
 package lowcoupling.testGdx;
 import com.badlogic.gdx.ApplicationListener;
+<<<<<<< HEAD
+=======
+
+import lowcoupling.tetGdx.TestInputProcessor;
+>>>>>>> 19cb5dbc57db6d2e7a741d3103504de30ca54050
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.GL10;
 import com.badlogic.gdx.graphics.GL20;
